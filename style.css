@@ -31,13 +31,13 @@ body {
     font-size: 4rem;
 }
 
-#heading-grp .text-center {
+/* #heading-grp .text-center {
     line-height: 1.6;
-}
+} */
 
 /* Media Query */
 
-@media (max-width: 1200px) {
+@media (max-width: 1270px) {
     #heading-grp h1{
         font-weight: 100;
         font-size: 3rem;
